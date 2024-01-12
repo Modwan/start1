@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable_panel/controllers/slide_controller.dart';
-import 'package:flutter_slidable_panel/models.dart';
+
 import 'package:start1/Widget/card.dart';
 
 import 'package:start1/models/cart.dart';
@@ -23,7 +22,6 @@ class _CartPageState extends State<CartPage> {
       print(cartList);
     });
 
-    // TODO: implement initState
     super.initState();
   }
 
