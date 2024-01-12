@@ -24,7 +24,7 @@ Widget cartProduct(Cart product, index, setState) {
       ),
     ],
     //jjjjjj
-    //rr
+    //roooo
 
     child: Card(
       child: ListTile(
